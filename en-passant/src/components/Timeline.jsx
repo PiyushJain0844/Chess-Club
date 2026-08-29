@@ -4,31 +4,35 @@ function Timeline() {
             year: "2024",
             title: "En Passant ABESEC Begins",
             description:
-            "En Passant - ABESEC established its presence as a chess community on Chess.com, bringing students together through chess."
+            "En Passant - ABESEC established its presence as a chess community, bringing students together and promoting chess across the college."
         },
+        
+        {
+            year: "2024",
+            title: "SehMaat",
+            description:
+            "En Passant organized SehMaat from 27–30 May 2024 at Ramanujan Block, giving students an opportunity to showcase their chess skills. The event featured solo girls, solo boys, team boys and interclub players."
+        },
+
         {
             year: "2025",
-            title: "CCL Summer Week",
+            title: "ABES Chess Championship (ACC)",
             description:
-            "En Passant participated in CCL Summer Week 2, competing alongside chess clubs from colleges and universities."
+            "ACC 2025 brought together 120+ players for an intense chess championship from 22–27 April 2025, featuring 600+ games and 6+ blitz tie-breakers across the Open and Girls' sections."
         },
+
         {
             year: "2025",
             title: "KnightMares",
             description:
             "En Passant organized KnightMares, a rapid team chess tournament for chess enthusiasts."
         },
-        {
-            year: "2025",
-            title: "PawnChayat",
-            description:
-            "PawnChayat brought together 132 players for a competitive online chess tournament."
-        },
+
         {
             year: "2025",
             title: "Chess960 Arena",
             description:
-            "The club hosted a Chess960 Arena with 18 players, giving members a chance to experience a different chess format."
+            "The club hosted a Chess960 Arena, giving members an opportunity to experience and compete in a different format of chess."
         }
     ];
     
