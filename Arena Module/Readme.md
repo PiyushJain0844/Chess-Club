@@ -69,18 +69,18 @@ Arena Module/
 
 ![Arena Page](./screenshots/Screenshot1.png)
 
-### Add Arena API
+### Arena Link
 
-![Add Arena API](./screenshots/Screenshot2.png)
+![Arena Link](./screenshots/Screenshot2.png)
+
+### Backend Server
+
+![Backend Server](./screenshots/Screenshot3.png)
 
 ### Get Arenas API
 
-![Get Arenas API](./screenshots/Screenshot3.png)
+![Get Arenas API](./screenshots/Screenshot4.png)
 
-### Responsive View
+### Add Arena API
 
-![Responsive View](./screenshots/Screenshot4.png)
-
-### Project Overview
-
-![Project Overview](./screenshots/Screenshot5.png)
+![Add Arena API](./screenshots/Screenshot5.png)
