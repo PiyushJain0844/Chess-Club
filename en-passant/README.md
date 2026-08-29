@@ -34,15 +34,16 @@ npm install
 
 npm run dev
 
+
 ## Screenshots
 
-### Desktop View
+![Timeline](./screenshots/Screenshot1.png)
 
-[Insert screenshot here]
+![Chess Club Events](./screenshots/Screenshot2.png)
 
-### Mobile View
+![Responsive View](./screenshots/Screenshot3.png)
 
-[Insert screenshot here]
+![Club Links](./screenshots/Screenshot4.png)
 
 ## Project Structure
 
