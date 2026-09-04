@@ -7,7 +7,13 @@ function Arenas() {
         fetch("http://localhost:5000/api/arenas")
             .then((response) => response.json())
             .then((data) => {
-                setArenas(data);
+                const uniqueArenas = data.filter(
+                    (arena, index, self) =>
+                        index === self.findIndex(
+                            (a) => a.arenaName === arena.arenaName
+                        )
+                );
+                setArenas(uniqueArenas);
             })
             .catch((error) => {
                 console.log("Error fetching arenas:", error);
